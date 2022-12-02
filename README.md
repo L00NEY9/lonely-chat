@@ -5,7 +5,8 @@ This is simple chat application. Using BroadcastChannel, you can chatting betwee
 1. React
 2. TypeScript
 3. Redux Toolkit
-4. Vite
+4. Styled Components
+5. Vite
 
 ## How to build?
 1. Clone this repository
